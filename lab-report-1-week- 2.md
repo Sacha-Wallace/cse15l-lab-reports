@@ -9,7 +9,7 @@ You must click this link, [Link](https://code.visualstudio.com/), and follow the
 
 After, you should be able to open up to a screen like this.
 
-[Image](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-1.png)
+![alt text](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-1.png)
 
 
 
