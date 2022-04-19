@@ -9,7 +9,7 @@ You must click this link, [Link](https://code.visualstudio.com/), and follow the
 
 After, you should be able to open up to a screen like this.
 
-![Image](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-1.png)
+![LR-1](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-1.png?raw=true)
 
 
 
@@ -25,7 +25,7 @@ Open a terminal window in VSCode, and type the command
 If any messages come up, just say yes and press enter. Then proceed to enter your password.
 You should end up getting an output similar to this, meaning you have successfully connected.
 
-![alt text](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-2.png)
+![LR-2](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-2.png?raw=true)
 
 3. **Trying Some Commands**
 
@@ -37,7 +37,7 @@ You can try to mess around with a few of these commands.
 
 Here you can see I used the ls command to help navigate as I created a folder, testfolder, and then proceeded to enter it and create a text file named testtext.txt.
 
-![alt text](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-3.png)
+![LR-3](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-3.png?raw=true)
 
 4. **Moving Files With scp**
 
@@ -51,7 +51,7 @@ After inputting your password, the file should be copied!
 
 Here’s an example of the expected output in the console.
 
-![alt text](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-4.png)
+![LR-4](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-4.png?raw=true)
 
 5. **Setting an SSH Key**
 
@@ -79,7 +79,7 @@ Logout of the server, and then:
 
 Now you should be able to use commands such as scp without having to enter your password like below!
 
-![alt text](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-5.png)
+![LR-5](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-5.png?raw=true)
 
 6. **Optimizing Remote Running**
 
@@ -91,5 +91,5 @@ Adding semicolons on a line will let you run multiple commands within the same l
 
 For example, below I am disconnected from the server but I can run the ls command within quotes with the ssh command to view the contents of the main directory. 
 
-![alt text](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-6.png)
+![LR-6](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-6.png?raw=true)
 
