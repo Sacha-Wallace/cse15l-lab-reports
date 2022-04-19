@@ -22,7 +22,7 @@ Open a terminal window in VSCode, and type the command
 
 `$ ssh *CourseSpecificAccount*@ieng6.ucsd.edu`
 
-If any messages come up, just say yes and press enter. Then proceed to enter your password
+If any messages come up, just say yes and press enter. Then proceed to enter your password.
 You should end up getting an output similar to this, meaning you have successfully connected.
 
 ![alt text](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-2.png)
