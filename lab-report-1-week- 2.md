@@ -25,7 +25,7 @@ Open a terminal window in VSCode, and type the command
 If any messages come up, just say yes and press enter. Then proceed to enter your password
 You should end up getting an output similar to this, meaning you have successfully connected.
 
-[Image]()
+[Image](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-2.png)
 
 3. **Trying Some Commands**
 
@@ -37,7 +37,7 @@ You can try to mess around with a few of these commands.
 
 Here you can see I used the ls command to help navigate as I created a folder, testfolder, and then proceeded to enter it and create a text file named testtext.txt.
 
-[Image]()
+[Image](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-3.png)
 
 4. **Moving Files With scp**
 
@@ -51,7 +51,7 @@ After inputting your password, the file should be copied!
 
 Here’s an example of the expected output in the console.
 
-[Image]()
+[Image](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-4.png)
 
 5. **Setting an SSH Key**
 
@@ -79,7 +79,7 @@ Logout of the server, and then:
 
 Now you should be able to use commands such as scp without having to enter your password like below!
 
-[Image]()
+[Image](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-5.png)
 
 6. **Optimizing Remote Running**
 
@@ -91,5 +91,5 @@ Adding semicolons on a line will let you run multiple commands within the same l
 
 For example, below I am disconnected from the server but I can run the ls command within quotes with the ssh command to view the contents of the main directory. 
 
-[Image]()
+[Image](https://github.com/Sacha-Wallace/cse15l-lab-reports/blob/main/LR-6.png)
 
