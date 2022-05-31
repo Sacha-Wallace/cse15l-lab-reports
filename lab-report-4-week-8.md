@@ -3,6 +3,8 @@
 
 **Testing 3 Snippets in MarkdownParser**
 
+MarkdownParse Repository: [Link](https://github.com/Sacha-Wallace/markdown-parser)
+
 1. **Snippet 1**
 
 This is what Snippet 1's expected output looks like:
